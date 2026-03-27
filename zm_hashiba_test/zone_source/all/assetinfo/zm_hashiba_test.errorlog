@@ -1,0 +1,5 @@
+return 1001000
+^1ERROR: xmodel 'codol_powerswitch_asylum_lever' is missing
+  xmodel:codol_powerswitch_asylum_lever
+    col_map:maps/zm/zm_hashiba_test.d3dbsp
+^3Found 1 bad bulletmeshes, dumped to G:\Steam Games\steamapps\common\Call of Duty Black Ops III\/usermaps\zm_hashiba_test/zone_source/all/assetinfo/zm_hashiba_test_bulletreport.csv file.
